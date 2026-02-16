@@ -62,7 +62,12 @@
 
 Запишите в Redis несколько ключей с любыми именами и значениями. 
 
-*Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
+Ответ: 1. устанавливаем и запускаем redis-server <img width="838" height="232" alt="image" src="https://github.com/user-attachments/assets/42efb8c2-3cf5-4fbf-a9ec-e3cbea301bbe" />
+
+2. Через redis-cli добавлем данные <img width="420" height="40" alt="image" src="https://github.com/user-attachments/assets/98d1178d-4a6c-42ea-92fc-c829e6a4178d" />
+
+<img width="515" height="580" alt="image" src="https://github.com/user-attachments/assets/f034a830-161a-46e7-8937-59e4750b43ab" />
+
 
 
 ## Дополнительные задания (со звёздочкой*)
