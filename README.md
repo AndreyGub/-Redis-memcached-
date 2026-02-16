@@ -54,7 +54,9 @@
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
----
+Ответ: 
+--- <img width="510" height="182" alt="image" src="https://github.com/user-attachments/assets/f5eb7a53-5e5e-4bd3-9dc0-d3dd0e2ba158" />
+
 
 ### Задание 4. Запись данных в Redis
 
